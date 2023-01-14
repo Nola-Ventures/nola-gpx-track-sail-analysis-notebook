@@ -8,7 +8,7 @@ The purpose of this notebook is to apply statistical methods to a collection of 
 
 ----
 
-## Table of [notebook](https://github.com/Nola-Ventures/nola-gpx-track-sail-analysis-notebook/Nola_GPX-Tracking_Sail_Analysis.ipynb) contents
+## Table of [notebook](https://github.com/Nola-Ventures/nola-gpx-track-sail-analysis-notebook/blob/main/Nola_GPX-Tracking_Sail_Analysis.ipynb) contents
 
 * About
     - Data

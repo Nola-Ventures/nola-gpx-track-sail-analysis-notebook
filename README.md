@@ -4,11 +4,11 @@
 
 The purpose of this notebook is to apply statistical methods to a collection of GPX datasets. The goal was to merge the collected data into a complete tracking route and to highlight statistical features.
 
-🗺️ To see the final map analysis, go [here](https://htmlpreview.github.io/?https://github.com/Nola-Ventures/nola-gpx-track-sail-analysis-notebook/blob/dev/nola_gpx_track_2022.html).
+🗺️ To see the final map analysis, go [here](https://github.com/Nola-Ventures/nola-gpx-track-sail-analysis-notebook/blob/dev/nola_gpx_track_2022.html).
 
 ----
 
-## Table of [notebook](https://github.com/Nola-Ventures/nola-gpx-track-sail-analysis-notebook/blob/dev/Nola_GPX-Tracking_Sail_Analysis.ipynb) contents
+## Table of [notebook](https://github.com/Nola-Ventures/nola-gpx-track-sail-analysis-notebook/Nola_GPX-Tracking_Sail_Analysis.ipynb) contents
 
 * About
     - Data
